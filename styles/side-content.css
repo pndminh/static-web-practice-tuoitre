@@ -1,25 +1,30 @@
 .side-content{
-
+    gap: 24px;
 }
 .side-content img{
     width: 300px;
     height: 100%;
     object-fit: contain;
 }
-
+.side-content .news-flex .news-box-flex .content-box p{
+    padding: 0;
+    font-size: 13px;
+}
 .side-content .link-title{
     font-size: 14px;
+    padding: 0;
+    margin: 0;
 }
 .side-content .news-box-flex img{
     width: 120px;
     height: 75px;
     border-radius: 5px;
 }
-.price{
-    font-size: 13px;
+.content-box .price{
     font-weight: 500;
     color: #ec3222;
 }
+
 .side-content .news-box-flex{
     gap: 8px;
 }
