@@ -25,6 +25,7 @@
     top: 40px;
     left: 12px;
     gap: 12px;
+    margin-right: 24px;
 }
 .v-navbar i:not(.font i){
     color:  #666;

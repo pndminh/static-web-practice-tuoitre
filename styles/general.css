@@ -54,7 +54,7 @@ ol {
 .body-container{
     max-width: 1130px;
     width: 100%;
-    margin: auto auto 50px auto;
+    margin: auto;
     padding: 24px 0 0 0;
 }
 hr{
