@@ -31,6 +31,7 @@
     margin: 0;
     padding: 0;
     vertical-align: text-bottom;
+    border-right: 1px solid #ed1c24;
 }
 .header-item p{
     font-weight: 500;
@@ -44,8 +45,14 @@
     margin-left: 20px;
     font-weight: 500;
 }
-
-.header img{
-    width: 112px;
-    height: 40px;
+.fa-magnifying-glass, .header .fa-user{
+    color: white;
+}
+.fa-circle-question{
+    color: #5580df;
+    background: white;
+    border-radius: 50%;
+}
+.header-item i{
+    color: rgba(246, 125, 91, 0.671);
 }
